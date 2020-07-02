@@ -8,7 +8,7 @@ In this project, students will leanr and master how to use GitKraken's Git Clien
 ## Steps to Complete this project
 
 To complete this project, follow the steps below: 
-1. Visit [https://bit.ly/D3-Bootcamp](mlhlocal.host/github-signup) to signup for the Bootcamp. 
+1. Visit https://bit.ly/D3-Bootcamp to signup for the Bootcamp. 
 2. Wait for the congratulatory mail from the Bootcamp Administrator.
 3. Join the FREE class to take the course GIT BASICS AND VERSION CONTROL.
 
@@ -18,4 +18,4 @@ To complete this project, follow the steps below:
 3. Use GitKraken to commit changes, open and review pull requests, and merge changes. 
 4. Voila! You're an expert. 
 
-###Grazie
+### Grazie
