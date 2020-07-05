@@ -13,8 +13,8 @@ To complete this project, follow the steps below:
 3. Join the FREE class to take the course GIT BASICS AND VERSION CONTROL.
 
 ### The main Project Phase
-1. The course instructor will invite you to join the cohort project.
-2. Accept the Invitation as you will be directed by the directed by the course instructor. 
+1. The course instructor will invite you to join the cohort's project.
+2. Accept the Invitation as you will be directed by the course instructor. 
 3. Use GitKraken to commit changes, open and review pull requests, and merge changes. 
 4. Voila! You're an expert. 
 
